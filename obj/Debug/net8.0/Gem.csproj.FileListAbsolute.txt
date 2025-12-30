@@ -63,3 +63,4 @@ C:\ProjetosBalta\Gem\Gem\obj\Debug\net8.0\refint\Gem.dll
 C:\ProjetosBalta\Gem\Gem\obj\Debug\net8.0\Gem.pdb
 C:\ProjetosBalta\Gem\Gem\obj\Debug\net8.0\Gem.genruntimeconfig.cache
 C:\ProjetosBalta\Gem\Gem\obj\Debug\net8.0\ref\Gem.dll
+C:\ProjetosBalta\Gem\Gem\obj\Debug\net8.0\Gem.sourcelink.json
